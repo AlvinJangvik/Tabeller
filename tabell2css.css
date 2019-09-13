@@ -1,0 +1,30 @@
+table,tr,th,td{
+	border: 2px solid black;
+	border-collapse: collapse;
+	font-size:225%;
+}
+table{
+	
+	width:50%;
+	height:50%;
+}
+.b{
+	background-color:blue;
+	color:blue;
+}
+.r{
+	background-color:red;
+	color:red;
+}
+.y{
+	background:yellow;
+	color:yellow;
+}
+.bl{
+	background-color:black;
+	color:black;
+}
+.g{
+	background-color:green;
+	color:green;
+}
